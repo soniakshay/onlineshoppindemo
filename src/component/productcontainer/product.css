@@ -1,0 +1,36 @@
+.product .image img{
+    width: 100px;
+    height: 100px;
+}
+.product {
+    box-shadow: 0px 0px 3px -1px;
+    padding: 10px;
+    margin-top: 10px;
+    height:400px;
+    text-align: center;
+
+
+}
+.productName h2 {
+    padding-top: 10px;
+    font-size: 20px;
+    height: 100px;
+
+}
+.addtocartbutton {
+    padding-top: 10px;
+}
+.productprice{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.productdesc span {
+    font-size: 14px;
+}
+.image {
+    text-align: center;
+}
+
+.productContainer {
+    margin-top: 90px;
+}

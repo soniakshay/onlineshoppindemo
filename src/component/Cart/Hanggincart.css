@@ -1,0 +1,34 @@
+.showcartdetail img{
+    height: 100px;
+    width: 100px;
+}
+.hidecartdetail img {
+    height: 70px;
+    width: 100%;
+}
+.productcard {
+    padding: 10px;
+}
+.hangginCart {
+    border-left:1px solid;
+}
+
+.productcard span {
+    font-size: 15px;
+
+}
+.productcard span b{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+.alignRight {
+    text-align: right;
+    padding: 0px 10px;
+}
+
+tr, td {
+  padding: 0px;
+  margin: 0px;
+}
